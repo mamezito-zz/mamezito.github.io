@@ -1,0 +1,94 @@
+app.coffee
+app.js
+framer/backups/backup-2016-08-06 20.03.28.coffee
+framer/backups/backup-2016-08-06 20.04.28.coffee
+framer/backups/backup-2016-08-06 20.05.28.coffee
+framer/backups/backup-2016-08-06 20.06.28.coffee
+framer/backups/backup-2016-08-06 20.07.28.coffee
+framer/backups/backup-2016-08-06 20.09.58.coffee
+framer/backups/backup-2016-08-06 20.12.58.coffee
+framer/backups/backup-2016-08-06 22.02.24.coffee
+framer/backups/backup-2016-08-06 22.03.24.coffee
+framer/backups/backup-2016-08-06 22.48.10.coffee
+framer/backups/backup-2016-08-06 22.49.10.coffee
+framer/backups/backup-2016-08-06 22.50.10.coffee
+framer/backups/backup-2016-08-06 22.51.57.coffee
+framer/backups/backup-2016-08-06 22.52.57.coffee
+framer/backups/backup-2016-08-06 22.53.57.coffee
+framer/backups/backup-2016-08-06 22.57.33.coffee
+framer/backups/backup-2016-08-06 23.19.40.coffee
+framer/backups/backup-2016-08-07 09.43.16.coffee
+framer/backups/backup-2016-08-07 09.47.42.coffee
+framer/backups/backup-2016-08-07 09.48.46.coffee
+framer/backups/backup-2016-08-07 17.52.05.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.js.map.old
+framer/framer.js.map.old1
+framer/framer.js.map.old2
+framer/framer.js.old
+framer/framer.js.old1
+framer/framer.js.old2
+framer/framer.modules.js
+framer/images/background.png
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/images/icon-arrow.png
+framer/images/icon-arrow@2x.png
+framer/images/icon-close.png
+framer/images/icon-close@2x.png
+framer/images/icon-framer.png
+framer/images/icon-framer@2x.png
+framer/images/icon-share.png
+framer/images/icon-share@2x.png
+framer/manifest.txt
+framer/metadata.json
+framer/mirror.css
+framer/preview.png
+framer/style.css
+framer/version
+images/pause.png
+images/play.png
+images/s.png
+imported/AndroidWear-Sketch@1x/images/Layer-Action-F4DBCE42-AB40-4008-BBE4-7FC5235EB1AD.png
+imported/AndroidWear-Sketch@1x/images/Layer-Button-33CBF1C1-7F85-4C7C-AB6B-DFB215800181.png
+imported/AndroidWear-Sketch@1x/images/Layer-Button-3735E201-C92B-4A78-8A13-F39E5C7DF706.png
+imported/AndroidWear-Sketch@1x/images/Layer-card-71701A4F-3AF3-44FC-A5A8-8DD8C22543C9.png
+imported/AndroidWear-Sketch@1x/images/Layer-card-7550AC67-7F28-4666-B2A1-7D0ABE0A94D1.png
+imported/AndroidWear-Sketch@1x/images/Layer-card-F0CE6EF0-CA3F-4D37-A3A7-A68EE576EC85.png
+imported/AndroidWear-Sketch@1x/images/Layer-cardBg-57CE91CB-4504-4E7A-A8E3-E45C956E82A3.png
+imported/AndroidWear-Sketch@1x/images/Layer-cardBg2-1D0C2C9D-7EB0-416A-9ECC-63B43C6CC9F9.png
+imported/AndroidWear-Sketch@1x/images/Layer-cardBg3-47F71044-01B9-496A-A258-D2C1C2B5ABD3.png
+imported/AndroidWear-Sketch@1x/images/Layer-content-49AF773C-2D38-4279-B915-E4829574844E.png
+imported/AndroidWear-Sketch@1x/images/Layer-content-A82215A8-3404-4E3A-95B1-0472B3F5DE4E.png
+imported/AndroidWear-Sketch@1x/images/Layer-content-F0A200F8-A775-4399-966F-2C01CD8229F8.png
+imported/AndroidWear-Sketch@1x/images/Layer-Fill_1__Fill_2__Fill_3-5FA820B6-CEBE-476F-A633-14420C372973.png
+imported/AndroidWear-Sketch@1x/images/Layer-Group-9B5AC72A-93CD-40BA-9B11-7074DCCA9AC8.png
+imported/AndroidWear-Sketch@1x/images/Layer-Groups-3AE6F7AF-D5AA-4DA2-94E4-A27FB0A865E7.png
+imported/AndroidWear-Sketch@1x/images/Layer-ic_full_like-A93764B6-6572-49ED-BE90-6C7F82936F58.png
+imported/AndroidWear-Sketch@1x/images/Layer-ic_full_reply-7975263C-0F3F-4C00-8995-10F345EBC179.png
+imported/AndroidWear-Sketch@1x/images/Layer-icon-A9DB88E8-A5DC-418F-A60E-DF26AE411C03.png
+imported/AndroidWear-Sketch@1x/images/Layer-indicators-80B47023-6D07-436E-8403-4A2134FB6D49.png
+imported/AndroidWear-Sketch@1x/images/Layer-Label-04E98B44-939E-44CE-B908-4E0272850454.png
+imported/AndroidWear-Sketch@1x/images/Layer-Label-1CD930B5-8BD7-4B29-95E4-635B3E46A740.png
+imported/AndroidWear-Sketch@1x/images/Layer-Spec-35DD50B4-1498-4F92-A6D9-A558AE637BCE.png
+imported/AndroidWear-Sketch@1x/layers.json
+imported/AndroidWear-Sketch@1x/layers.json.js
+imported/wear@1x/images/Layer-Group-mzq3oezf.png
+imported/wear@1x/images/Layer-Group-nzy1mjcy.png
+imported/wear@1x/layers.json
+imported/wear@1x/layers.json.js
+index.html
+modules/firebase.coffee
+modules/myModule.coffee

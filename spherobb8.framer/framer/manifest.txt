@@ -1,0 +1,103 @@
+app.coffee
+framer/backups/backup-2016-07-25 15.43.16.coffee
+framer/backups/backup-2016-07-25 15.52.16.coffee
+framer/backups/backup-2016-07-25 15.53.16.coffee
+framer/backups/backup-2016-07-25 15.54.16.coffee
+framer/backups/backup-2016-07-28 23.46.15.coffee
+framer/backups/backup-2016-07-28 23.49.15.coffee
+framer/backups/backup-2016-07-28 23.50.50.coffee
+framer/backups/backup-2016-07-28 23.56.00.coffee
+framer/backups/backup-2016-07-29 00.04.03.coffee
+framer/backups/backup-2016-07-29 00.11.03.coffee
+framer/backups/backup-2016-07-29 09.46.20.coffee
+framer/backups/backup-2016-07-29 14.15.57.coffee
+framer/backups/backup-2016-07-29 14.37.52.coffee
+framer/backups/backup-2016-08-04 14.11.52.coffee
+framer/backups/backup-2016-08-06 18.34.35.coffee
+framer/backups/backup-2016-08-06 18.35.35.coffee
+framer/backups/backup-2016-08-06 18.36.35.coffee
+framer/backups/backup-2016-08-06 18.46.38.coffee
+framer/backups/backup-2016-08-06 19.42.06.coffee
+framer/backups/backup-2016-08-06 20.17.17.coffee
+framer/backups/backup-2016-08-06 21.21.14.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.js.map.old
+framer/framer.js.map.old1
+framer/framer.js.map.old2
+framer/framer.js.old
+framer/framer.js.old1
+framer/framer.js.old2
+framer/framer.modules.js
+framer/images/background.png
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/images/icon-arrow.png
+framer/images/icon-arrow@2x.png
+framer/images/icon-close.png
+framer/images/icon-close@2x.png
+framer/images/icon-framer.png
+framer/images/icon-framer@2x.png
+framer/images/icon-share.png
+framer/images/icon-share@2x.png
+framer/images/preloader-icon.png
+framer/manifest.txt
+framer/metadata.json
+framer/mirror.css
+framer/preview.png
+framer/social-1200x630.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+imported/interfacce@3x/images/Layer-body-mjbeoduz.png
+imported/interfacce@3x/images/Layer-body-murcnue1.png
+imported/interfacce@3x/images/Layer-body-ouncotey.png
+imported/interfacce@3x/images/Layer-circle-mtddnjlc.png
+imported/interfacce@3x/images/Layer-circle-nky0oti2.png
+imported/interfacce@3x/images/Layer-circle-rjcxotcx.png
+imported/interfacce@3x/images/Layer-colorpicker-rdq3nzfc.png
+imported/interfacce@3x/images/Layer-colorpicker-rtg1mjnb.png
+imported/interfacce@3x/images/Layer-Group-mzi2nky1.png
+imported/interfacce@3x/images/Layer-Group-oem3qzi4.png
+imported/interfacce@3x/images/Layer-Group-qzu5rdhc.png
+imported/interfacce@3x/images/Layer-Group_2-neqzrdng.png
+imported/interfacce@3x/images/Layer-Group_2-nze1rtc4.png
+imported/interfacce@3x/images/Layer-Group_2-oei3mzaw.png
+imported/interfacce@3x/images/Layer-Group_2_Copy-ouewqze5.png
+imported/interfacce@3x/images/Layer-Group_2_Copy-qzbcnjng.png
+imported/interfacce@3x/images/Layer-Group_2_Copy-qzzdoti1.png
+imported/interfacce@3x/images/Layer-Group_2_Copy_2-mkyznjew.png
+imported/interfacce@3x/images/Layer-Group_2_Copy_2-njhcrure.png
+imported/interfacce@3x/images/Layer-Group_2_Copy_2-qthcrum1.png
+imported/interfacce@3x/images/Layer-head-otg5rdi2.png
+imported/interfacce@3x/images/Layer-head-oumznzdg.png
+imported/interfacce@3x/images/Layer-head-q0fcoeqz.png
+imported/interfacce@3x/images/Layer-knob-odq2rtq5.png
+imported/interfacce@3x/images/Layer-knob-otbbmkm5.png
+imported/interfacce@3x/images/Layer-knob-qtaxn0i0.png
+imported/interfacce@3x/images/Layer-Mobile_Portrait-mdvgqzjb.png
+imported/interfacce@3x/images/Layer-Mobile_Portrait_Copy-njgwneuy.png
+imported/interfacce@3x/layers.json
+imported/interfacce@3x/layers.json.js
+imported/ui@1x/images/Layer-body-nkjcouve.png
+imported/ui@1x/images/Layer-circle-rdlgmkvb.png
+imported/ui@1x/images/Layer-head-odngndlg.png
+imported/ui@1x/layers.json
+imported/ui@1x/layers.json.js
+imported/ui@3x/images/Layer-colorpicker-ntlgmtkz.png
+imported/ui@3x/layers.json
+imported/ui@3x/layers.json.js
+index.html
+modules/dragOnCircle.coffee
+modules/firebase.coffee
